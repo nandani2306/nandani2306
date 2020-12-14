@@ -1,3 +1,3 @@
 ### Hi there 👋
 
--- Check out https://nandani2306.github.io/soviet-space-dogs/
+- Check out https://nandani2306.github.io/soviet-space-dogs/
